@@ -1,0 +1,12 @@
+User Vector: [8 2 5]
+------------------------------
+Film A Vector: [9 1 2]
+Similarity Score: 0.9393
+------------------------------
+Film B Vector: [1 9 8]
+Similarity Score: 0.5664
+------------------------------
+Film C Vector: [7 2 6]
+Similarity Score: 0.9892
+------------------------------
+Recommendation: The most suitable movie is 'Film C' with a score of 0.9892
