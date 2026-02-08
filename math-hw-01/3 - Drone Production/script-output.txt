@@ -1,0 +1,20 @@
+Matrix A (Coefficients):
+[[4 4 6]
+ [1 1 2]
+ [1 2 4]]
+
+Vector b (Total Components):
+[460 130 240]
+
+Determinant of A: -2.00
+The determinant is non-zero. A unique solution exists.
+
+Solution vector x (Quantities of drones):
+Scout (x1): 20
+Kamikaze (x2): 50
+Heavy Cargo (x3): 30
+
+Verification (A * x):
+[460. 130. 240.]
+
+Verification successful: True
