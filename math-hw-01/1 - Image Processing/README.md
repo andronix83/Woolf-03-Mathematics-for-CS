@@ -1,4 +1,4 @@
-# Problem 1: Working with Images as Matrices
+# Task 1: Working with Images as Matrices
 
 ## Problem Statement
 Digital images are stored in computers as arrays of numbers (matrices). We are working with a $3 \times 3$ pixel image fragment.

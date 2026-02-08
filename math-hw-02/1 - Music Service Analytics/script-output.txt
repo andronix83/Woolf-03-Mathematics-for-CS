@@ -1,0 +1,16 @@
+--- Music Service Analytics Results ---
+
+1. Total unique users (Reach): 20
+   IDs: [101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120]
+
+2. Omnivorous music lovers (All 3 genres): 3
+   IDs: [105, 110, 115]
+
+3. Pure Rockers (Rock only): 4
+   IDs: [101, 107, 109, 118]
+
+4. Users who listened to exactly two genres: 4
+   IDs: [102, 103, 108, 112]
+   - Rock & Pop (only): {102}
+   - Rock & Jazz (only): {112, 103}
+   - Pop & Jazz (only): {108}

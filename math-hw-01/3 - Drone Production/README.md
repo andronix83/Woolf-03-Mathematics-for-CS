@@ -1,4 +1,4 @@
-# Task 3: Production Analysis - Analytical Solution
+# Task 3: Production Analysis
 
 ## Problem Statement
 

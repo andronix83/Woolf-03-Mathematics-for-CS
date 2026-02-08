@@ -1,4 +1,4 @@
-# Task 2: Search for Similar Movies (Analytical Solution)
+# Task 2: Search for Similar Movies
 
 ## Problem Statement
 We need to determine which movie fits the user's profile best by comparing the angle between feature vectors in a multidimensional space. We use **Cosine Similarity** as the metric.

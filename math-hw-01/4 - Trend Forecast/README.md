@@ -1,4 +1,4 @@
-# Analytical Solution: Trend Forecast (Least Squares Method)
+# Task 4: Trend Forecast (Least Squares Method)
 
 ## 1. Matrix Formulation
 To find the linear trend $y = kt + b$, we represent the data points as a system of linear equations $A\mathbf{x} = \mathbf{y}$.

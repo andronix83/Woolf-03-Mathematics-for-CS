@@ -1,0 +1,46 @@
+Emp   Ver   Prem  Adm   Ban   | Base  Prem  Adm   Secr
+-----------------------------------------------------------------
+1     1     1     1     1     | 0     0     0     0
+1     1     1     1     0     | 1     1     1     1
+1     1     1     0     1     | 0     0     0     0
+1     1     1     0     0     | 1     1     0     1
+1     1     0     1     1     | 0     0     0     0
+1     1     0     1     0     | 1     1     1     1
+1     1     0     0     1     | 0     0     0     0
+1     1     0     0     0     | 1     1     0     0
+1     0     1     1     1     | 0     0     0     0
+1     0     1     1     0     | 0     0     0     0
+1     0     1     0     1     | 0     0     0     0
+1     0     1     0     0     | 0     0     0     0
+1     0     0     1     1     | 0     0     0     0
+1     0     0     1     0     | 0     0     0     0
+1     0     0     0     1     | 0     0     0     0
+1     0     0     0     0     | 0     0     0     0
+0     1     1     1     1     | 0     0     0     0
+0     1     1     1     0     | 0     1     1     1
+0     1     1     0     1     | 0     0     0     0
+0     1     1     0     0     | 0     1     0     0
+0     1     0     1     1     | 0     0     0     0
+0     1     0     1     0     | 0     0     1     1
+0     1     0     0     1     | 0     0     0     0
+0     1     0     0     0     | 0     0     0     0
+0     0     1     1     1     | 0     0     0     0
+0     0     1     1     0     | 0     0     0     0
+0     0     1     0     1     | 0     0     0     0
+0     0     1     0     0     | 0     0     0     0
+0     0     0     1     1     | 0     0     0     0
+0     0     0     1     0     | 0     0     0     0
+0     0     0     0     1     | 0     0     0     0
+0     0     0     0     0     | 0     0     0     0
+
+==============================
+ANALYSIS RESULTS
+==============================
+1. Total cases with Full Access (all 4 sections): 2
+2. Cases with Premium access but NO Base access: 2
+   Parameters for these cases (Emp, Ver, Prem, Adm, Ban):
+   -> (0, 1, 1, 1, 0)
+   -> (0, 1, 1, 0, 0)
+
+   Explanation: This occurs when the user is NOT an employee (is_employee=0)
+   but has a premium subscription (is_premium=1), is verified, and not banned.

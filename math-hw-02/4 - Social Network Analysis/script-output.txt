@@ -1,0 +1,46 @@
+--- 1. Adjacency List (Dictionary) ---
+Anna: ['Bogdan', 'Viktor', 'Hanna']
+Bogdan: ['Anna', 'Viktor', 'Dmytro']
+Viktor: ['Anna', 'Bogdan', 'Hanna', 'Dmytro']
+Hanna: ['Anna', 'Viktor', 'Yevhen']
+Dmytro: ['Bogdan', 'Viktor', 'Yevhen']
+Yevhen: ['Hanna', 'Dmytro']
+
+--- 2. Adjacency Matrix (Nested Lists) ---
+       Ann Bog Vik Han Dmy Yev
+Anna     0   1   1   1   0   0
+Bogdan   1   0   1   0   1   0
+Viktor   1   1   0   1   1   0
+Hanna    1   0   1   0   0   1
+Dmytro   0   1   1   0   0   1
+Yevhen   0   0   0   1   1   0
+
+--- 3. Edge List (List of Tuples) ---
+('Anna', 'Bogdan')
+('Anna', 'Viktor')
+('Anna', 'Hanna')
+('Bogdan', 'Viktor')
+('Bogdan', 'Dmytro')
+('Hanna', 'Viktor')
+('Dmytro', 'Viktor')
+('Hanna', 'Yevhen')
+('Dmytro', 'Yevhen')
+
+Total unique edges: 9
+
+--- Step 2: Degrees of Vertices ---
+Anna: 3
+Bogdan: 3
+Viktor: 4
+Hanna: 3
+Dmytro: 3
+Yevhen: 2
+
+Most communicative (Degree 4): Viktor
+Least communicative (Degree 2): Yevhen
+
+--- Step 3: Verify Handshaking Lemma ---
+Sum of all degrees: 18
+Number of edges: 9
+2 * Number of edges: 18
+RESULT: Theorem CONFIRMED. The sum of degrees equals twice the number of edges.

@@ -1,0 +1,6 @@
+--- Dream Team Formation Analysis ---
+Back-end combinations (choose 2 from 8): 28
+Front-end combinations (choose 2 from 6): 15
+Designer combinations (choose 1 from 4):   4
+-----------------------------------
+Total unique team compositions: 1680
