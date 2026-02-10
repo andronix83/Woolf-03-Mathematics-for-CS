@@ -35,4 +35,4 @@ At 18:00 ($t=10$), the derivative is **negative (-135.34)**.
 
 ### When to have maximum servers active?
 The peak load occurs strictly at **13:00** ($t=5$, where $f'(t)=0$).
-**Recommendation:** The maximum number of servers should be provisioned and fully ready shortly before **13:00** to handle the peak volume of concurrent sessions.# Homework #2
+**Recommendation:** The maximum number of servers should be provisioned and fully ready shortly before **13:00** to handle the peak volume of concurrent sessions.

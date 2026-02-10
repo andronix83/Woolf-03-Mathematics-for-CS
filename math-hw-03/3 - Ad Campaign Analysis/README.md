@@ -1,4 +1,4 @@
-# Analysis of Ad Campaign Effectiveness (Task 3)
+# Task 3: Analysis of Ad Campaign Effectiveness
 
 ## 1. Overview
 This report analyzes the registration dynamics for the new online course based on the provided intensity function $f(t) = 500 \cdot e^{-0.3t}$. The goal is to evaluate the first week's performance against the theoretical maximum reach.
@@ -38,4 +38,4 @@ Comparing the first week's performance to the theoretical maximum:
 $$\text{Efficiency} = \frac{1462.57}{1666.67} \times 100\% \approx 87.75\%$$
 
 **Conclusion:**
-The ad campaign is highly front-loaded. **87.75%** of all potential registrations are acquired within the first 7 days. This suggests that extending the active promotion phase significantly beyond one week may result in diminishing returns, as the registration intensity drops sharply after the first week.# Homework #3
+The ad campaign is highly front-loaded. **87.75%** of all potential registrations are acquired within the first 7 days. This suggests that extending the active promotion phase significantly beyond one week may result in diminishing returns, as the registration intensity drops sharply after the first week.

@@ -50,4 +50,4 @@ To verify the accuracy of the approximation, we calculate the exact function val
 - Exact Change: $6.422$
 - **Error:** $|6.422 - 6.3| = 0.122$
 
-**Conclusion:** The linear approximation provides a close estimate to the actual function behavior for small steps, though a slight deviation exists due to the quadratic nature of the function (non-linearity).# Homework #3
+**Conclusion:** The linear approximation provides a close estimate to the actual function behavior for small steps, though a slight deviation exists due to the quadratic nature of the function (non-linearity).
