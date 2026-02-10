@@ -1,0 +1,16 @@
+--- Probabilities ---
+Failure: {'A': 0.02, 'B': 0.05, 'C': 0.03, 'D': 0.04}
+Working: {'A': 0.98, 'B': 0.95, 'C': 0.97, 'D': 0.96}
+
+1. Probability all nodes work: 0.8669472
+2. Probability at least one fails: 0.1330528
+
+--- Calculation for Task 3 (breakdown) ---
+Scenario A&B fail, C&D work: 0.0009312
+Scenario A&C fail, B&D work: 0.0005472
+Scenario A&D fail, B&C work: 0.0007372
+Scenario B&C fail, A&D work: 0.0014112
+Scenario B&D fail, A&C work: 0.0019012
+Scenario C&D fail, A&B work: 0.0011172
+
+3. Probability exactly two nodes fail: 0.0066452

@@ -1,0 +1,11 @@
+--- Task 2: Battery Quality Control Analysis ---
+
+1. P(3 Good) via Multiplication Rule: 14/55 (0.2545)
+2. P(3 Good) via Combinatorics:       14/55 (0.2545)
+   -> Match Confirmed
+
+----------------------------------------
+
+3a. P(2 Good) via Multiplication Rule: 28/55 (0.5091)
+3b. P(2 Good) via Combinatorics:       28/55 (0.5091)
+   -> Match Confirmed

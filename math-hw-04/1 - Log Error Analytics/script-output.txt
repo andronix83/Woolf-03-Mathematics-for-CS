@@ -1,0 +1,8 @@
+--- Task 1: Log Error Analytics Results ---
+Total Events (Omega): 500
+Count A (Total DB): 120
+Count Union (DB or NET): 180
+------------------------------
+1. Probability of DB error P(A):       0.24 (24%)
+2. Probability of DB or NET P(A U B):  0.36 (36%)
+3. Probability of DB not NET P(A \ B): 0.17 (17%)
