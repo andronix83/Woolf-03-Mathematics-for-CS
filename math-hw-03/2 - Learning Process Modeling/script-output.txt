@@ -1,0 +1,4 @@
+--- Comparison Results ---
+Student with initial K=5% reached 90% knowledge in 15.01 days.
+Student with initial K=10% reached 90% knowledge in 14.64 days.
+Student with initial K=20% reached 90% knowledge in 13.86 days.

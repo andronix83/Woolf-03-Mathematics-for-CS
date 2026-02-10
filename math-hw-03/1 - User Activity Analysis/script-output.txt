@@ -1,0 +1,9 @@
+Time (t)   | Numerical f'(t)    | Analytical f'(t)   | Difference
+-----------------------------------------------------------------
+2          | 402.1919           | 402.1920           | 1.07e-04
+6          | -60.2389           | -60.2388           | 2.37e-05
+10         | -135.3353          | -135.3353          | 7.22e-07
+
+--- Business Interpretation ---
+Rate of change at 10:00 (t=2): 402.19 sessions/hour
+Rate of change at 18:00 (t=10): -135.34 sessions/hour

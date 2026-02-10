@@ -1,0 +1,10 @@
+--- Gradient Analysis at [10. 20.] ---
+Analytical Gradient: [24. 19.]
+Numerical Gradient:  [24. 19.]
+Difference:          [0. 0.]
+
+--- Function Change Analysis ---
+Deltas -> dx: 0.5, dy: -0.3
+Approximate Change (Linear): 6.30000
+Exact Change f([10.5 19.7]) - f([10. 20.]): 6.42200
+Approximation Error: 0.12200

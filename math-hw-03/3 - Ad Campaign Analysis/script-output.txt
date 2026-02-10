@@ -1,0 +1,10 @@
+--- First 7 Days Analysis ---
+Analytical Result: 1462.5726
+Numerical Result:  1462.5726
+>> Verification Successful: Results match.
+
+--- Theoretical Maximum Analysis ---
+Theoretical Max Registrations: 1666.6667
+
+--- Efficiency Analysis ---
+Percentage of max captured in week 1: 87.75%
