@@ -1,0 +1,10 @@
+1. Hypotheses: H0: mu = 72, H1: mu != 72
+2. Standard Error (SE): 2.4002
+3. t-statistic: 1.9998
+4. p-value: 0.0536
+5. Critical t-value (t_crit): 2.0322
+   95% Confidence Interval: [71.9221, 81.6779]
+------------------------------
+6. Conclusion:
+   Fail to reject Null Hypothesis.
+   There is NO sufficient evidence to claim the new method influenced results.

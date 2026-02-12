@@ -1,0 +1,6 @@
+1. Expected Value (E[X]): 44.0
+   Standard Deviation (sigma): 2.2978
+2. P(X = 50): 0.001675
+3. P(X = 45): 0.167382
+4. P(42 <= X <= 46): 0.726266
+5. P(Late > 5) or P(X < 45): 0.564664

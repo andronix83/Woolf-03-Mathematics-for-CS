@@ -1,0 +1,15 @@
+ --- Probability Distribution Table ---
+ Rating (x)  PMF P(X=x)  CDF F(x)
+          1        0.06      0.06
+          2        0.09      0.15
+          3        0.16      0.31
+          4        0.29      0.60
+          5        0.40      1.00
+------------------------------
+Expected Value E[X]: 3.8800
+Variance Var(X): 1.4456
+Standard Deviation (sigma): 1.2023
+------------------------------
+Probability of negative rating (1 or 2 stars) P(X <= 2): 0.1500
+Probability of high rating (>= 4 stars) P(X >= 4): 0.6900
+Median Rating: 4

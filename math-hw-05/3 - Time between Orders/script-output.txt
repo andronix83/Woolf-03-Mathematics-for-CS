@@ -1,0 +1,10 @@
+--- Task Parameters ---
+Rate (lambda): 0.1 orders/min
+Scale (1/lambda): 10.0 min
+------------------------------
+1. Mean (E[T]): 10.00 minutes
+   Standard Deviation (sigma): 10.00 minutes
+2. P(T < 5 min): 0.3935 (approx 39.3%)
+3. P(T > 15 min): 0.2231 (approx 22.3%)
+4. P(5 < T < 15 min): 0.3834 (approx 38.3%)
+5. Median waiting time: 6.9315 minutes
