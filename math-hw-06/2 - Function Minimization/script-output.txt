@@ -1,0 +1,9 @@
+--- Task 3: Numerical Optimization ---
+Optimization successful!
+Found Minimum at (x, y): (1.0000, 4.0000)
+Function Value at Minimum: -1.0000
+
+--- Task 4: Stability Check ---
+Run 1 | Start: [0, 0] -> Converged to: (1.0000, 4.0000) | Value: -1.0000
+Run 2 | Start: [10, 10] -> Converged to: (1.0000, 4.0000) | Value: -1.0000
+Run 3 | Start: [-5, 15] -> Converged to: (1.0000, 4.0000) | Value: -1.0000

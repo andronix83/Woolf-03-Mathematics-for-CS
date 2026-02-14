@@ -1,0 +1,4 @@
+--- Numerical Optimization Results ---
+Optimization Success: True
+Optimal Price (Numeric): 1650.00 UAH
+Maximum Profit (Numeric): 578000.00 UAH

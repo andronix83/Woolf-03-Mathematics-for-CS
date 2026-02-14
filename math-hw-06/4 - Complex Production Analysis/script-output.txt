@@ -1,0 +1,22 @@
+=== COMPLEX PRODUCTION ANALYSIS ===
+
+--- Part 1: Productivity Dynamics ---
+Time (t)   | P'(t) (Rate)    | Trend
+----------------------------------------
+2          | 24.0000         | Increasing
+5          | -0.0000         | Stationary (Peak)
+8          | -24.0000        | Decreasing
+
+Peak productivity occurs at t = 5.00 hours
+Maximum productivity value P(t*) = 200.00 units/hour
+Total production volume (Integral 0->10): 1666.67 units
+
+--- Part 2: Cost Optimization ---
+Initial parameters (from linear system): x0 = 7.00, y0 = 6.00
+Optimal parameters: x* = 5.00, y* = 4.00
+Minimum unit cost: 9.00 UAH
+
+--- Final: Total Cost Calculation ---
+Total Production Volume: 1666.67
+Minimum Cost per Unit:   9.00
+FINAL TOTAL COST:        15000.00 UAH

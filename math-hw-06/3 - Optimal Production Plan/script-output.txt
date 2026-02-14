@@ -1,0 +1,9 @@
+Optimization Successful!
+------------------------------
+Optimal number of Chairs (x): 15.00
+Optimal number of Tables (y): 22.50
+Maximum Profit: 25500.00 UAH
+------------------------------
+Resource Usage Analysis:
+Wood:  Used 120.00 / 120 m^2 (Remaining: 0.00 m^2)
+Labor: Used 90.00 / 90 hours (Remaining: 0.00 hours)
